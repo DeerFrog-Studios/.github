@@ -10,6 +10,18 @@ DeerFrog Studio é um estúdio indie de desenvolvimento de jogos, criado por um 
 Nossa missão é simples: desenvolver jogos que tragam alegria e diversão para todos os envolvidos, desde os jogadores até os desenvolvedores. Acreditamos que os melhores jogos nascem de ambientes descontraídos e colaborativos, onde a criatividade pode florescer sem restrições. Queremos que cada jogo seja uma celebração da nossa paixão compartilhada por criar e jogar.
 Cada jogo é uma aventura própria, desenvolvida com muito carinho e entusiasmo.
 
+## Notícias e Atualizações
+Fique por dentro das últimas novidades e atualizações sobre nossos projetos. Siga-nos nas redes sociais e junte-se à nossa comunidade para saber mais:
+
+[![discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)]()
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)]()
+[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]()
+
+## Contato
+Tem alguma dúvida ou quer saber mais sobre nós? Adoramos ouvir a comunidade e estamos sempre abertos para feedback e sugestões.
+
+- **Email**: contact@deerfrog.com
+
 <!--
 ## Notícias e Atualizações
 
