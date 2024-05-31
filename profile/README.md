@@ -1,4 +1,4 @@
-# Bem-vindo à DeerFrog Studio! 🐸🎮
+# Bem-vindo à DeerFrog Studios! 🐸🎮
 ![image](https://github.com/DeerFrog-Studios/.github/assets/171302172/41b51305-26a8-4630-b0bf-1579c07e7d2c)
 
 ## Quem Somos
